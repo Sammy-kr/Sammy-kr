@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning kotlin.
 
-- 💞️ I’m looking to collaborate on an android projectcollabora.
+- 💞️ I’m looking to collaborate on an android project.
 - 📫 you can reach me via kithinjiriungu@gmail.com
 
 <!---
