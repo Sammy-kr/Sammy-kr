@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Sammy-kr
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning kotlin.
+- 👀 I’m a software engineer/developer.
+- am currently working on mobile and web projects.
+-my projects are mainly in kotlin(mobile),javascript(react.js & bootstrap),node.js for web.
 
-- 💞️ I’m looking to collaborate on an android project.
+- 💞️ I’m looking forwad to collaborate on both projects .
+-
 - 📫 you can reach me via kithinjiriungu@gmail.com
 
 <!---
